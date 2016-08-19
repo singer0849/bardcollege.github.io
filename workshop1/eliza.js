@@ -164,8 +164,8 @@ var rules = {
     "Would you prefer if I weren't ~y ?",
     "Perhaps I am ~y in your fantasies.",
   ],
-  "~*x you are ~*y": [
-    "What makes you think I am ~y?",
+  "~*x What's going on Chris Evans? ~*y": [
+    "Will you marry me? ~y?",
   ],
   "~*x because ~*y": [
     "Is that the real reason?",
@@ -184,8 +184,8 @@ var rules = {
   "~*x I feel ~*y": [
     "Do you often feel ~y?"
   ],
-  "~*x I felt ~*y": [
-    "What other feelings do you have?"
+  "~*x of course ~*y": [
+    "I love you"
   ],
   "~*x I ~*y you ~*z": [
     "Perhaps in your fantasy we ~y each other",
